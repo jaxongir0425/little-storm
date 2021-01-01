@@ -1,0 +1,598 @@
+@media only screen and (max-width: 992px) {
+  .block-div {
+    display: none !important;
+  }
+  .none-div {
+    display: block !important;
+  }
+  .txt6 {
+    font-size: 200% !important;
+  }
+}
+
+@keyframes card-1 {
+  0% {
+    transform: translateY(0) translateX(0);
+  }
+  20% {
+    transform: translateY(0) translateX(0);
+  }
+  25% {
+    transform: translateY(0) translateX(107%);
+  }
+  45% {
+    transform: translateY(0) translateX(107%);
+  }
+  50% {
+    transform: translateY(107%) translateX(120%);
+  }
+  70% {
+    transform: translateY(107%) translateX(120%);
+  }
+  75% {
+    transform: translateY(107%) translateX(13%);
+  }
+  95% {
+    transform: translateY(107%) translateX(13%);
+  }
+  100% {
+    transform: translateY(0) translateX(0);
+  }
+}
+@keyframes card-2 {
+  0% {
+    transform: translateY(0) translateX(0);
+  }
+  20% {
+    transform: translateY(0) translateX(0);
+  }
+  25% {
+    transform: translateY(107%) translateX(13%);
+  }
+  45% {
+    transform: translateY(107%) translateX(13%);
+  }
+  50% {
+    transform: translateY(107%) translateX(-93%);
+  }
+  70% {
+    transform: translateY(107%) translateX(-93%);
+  }
+  75% {
+    transform: translateY(0) translateX(-107%);
+  }
+  95% {
+    transform: translateY(0) translateX(-107%);
+  }
+  100% {
+    transform: translateY(0) translateX(0);
+  }
+}
+@keyframes card-3 {
+  0% {
+    transform: translateY(0) translateX(0);
+  }
+  20% {
+    transform: translateY(0) translateX(0);
+  }
+  25% {
+    transform: translateY(-107%) translateX(-13%);
+  }
+  45% {
+    transform: translateY(-107%) translateX(-13%);
+  }
+  50% {
+    transform: translateY(-107%) translateX(94%);
+  }
+  70% {
+    transform: translateY(-107%) translateX(94%);
+  }
+  75% {
+    transform: translateY(0) translateX(108%);
+  }
+  95% {
+    transform: translateY(0) translateX(108%);
+  }
+  100% {
+    transform: translateY(0) translateX(0);
+  }
+}
+@keyframes card-4 {
+  0% {
+    transform: translateY(0) translateX(0);
+  }
+  20% {
+    transform: translateY(0) translateX(0);
+  }
+  25% {
+    transform: translateY(0) translateX(-107%);
+  }
+  45% {
+    transform: translateY(0) translateX(-107%);
+  }
+  50% {
+    transform: translateY(-107%) translateX(-120%);
+  }
+  70% {
+    transform: translateY(-107%) translateX(-120%);
+  }
+  75% {
+    transform: translateY(-107%) translateX(-13%);
+  }
+  95% {
+    transform: translateY(-107%) translateX(-13%);
+  }
+  100% {
+    transform: translateY(0) translateX(0);
+  }
+}
+@keyframes card-5 {
+  0% {
+    transform: translateY(0) translateX(0);
+  }
+  20% {
+    transform: translateY(0) translateX(0);
+  }
+  25% {
+    transform: translateY(0) translateX(110%);
+  }
+  45% {
+    transform: translateY(0) translateX(110%);
+  }
+  50% {
+    transform: translateY(120%) translateX(123%);
+  }
+  70% {
+    transform: translateY(120%) translateX(123%);
+  }
+  75% {
+    transform: translateY(120%) translateX(10%);
+  }
+  95% {
+    transform: translateY(120%) translateX(10%);
+  }
+  100% {
+    transform: translateY(0) translateX(0);
+  }
+}
+@keyframes card-6 {
+  0% {
+    transform: translateY(0) translateX(0);
+  }
+  20% {
+    transform: translateY(0) translateX(0);
+  }
+  25% {
+    transform: translateY(120%) translateX(13%);
+  }
+  45% {
+    transform: translateY(120%) translateX(13%);
+  }
+  50% {
+    transform: translateY(120%) translateX(-100%);
+  }
+  70% {
+    transform: translateY(120%) translateX(-100%);
+  }
+  75% {
+    transform: translateY(0) translateX(-107%);
+  }
+  95% {
+    transform: translateY(0) translateX(-107%);
+  }
+  100% {
+    transform: translateY(0) translateX(0);
+  }
+}
+@keyframes card-7 {
+  0% {
+    transform: translateY(0) translateX(0);
+  }
+  20% {
+    transform: translateY(0) translateX(0);
+  }
+  25% {
+    transform: translateY(-120%) translateX(-10%);
+  }
+  45% {
+    transform: translateY(-120%) translateX(-10%);
+  }
+  50% {
+    transform: translateY(-120%) translateX(100%);
+  }
+  70% {
+    transform: translateY(-120%) translateX(100%);
+  }
+  75% {
+    transform: translateY(0) translateX(110%);
+  }
+  95% {
+    transform: translateY(0) translateX(110%);
+  }
+  100% {
+    transform: translateY(0) translateX(0);
+  }
+}
+@keyframes card-8 {
+  0% {
+    transform: translateY(0) translateX(0);
+  }
+  20% {
+    transform: translateY(0) translateX(0);
+  }
+  25% {
+    transform: translateY(0) translateX(-113%);
+  }
+  45% {
+    transform: translateY(0) translateX(-113%);
+  }
+  50% {
+    transform: translateY(-120%) translateX(-123%);
+  }
+  70% {
+    transform: translateY(-120%) translateX(-123%);
+  }
+  75% {
+    transform: translateY(-120%) translateX(-13%);
+  }
+  95% {
+    transform: translateY(-120%) translateX(-13%);
+  }
+  100% {
+    transform: translateY(0) translateX(0);
+  }
+}
+//@keyframes page1 {
+//  0% {
+//    opacity: 1;
+//    z-index: 3;
+//    transform: translateY(0) scale(1);
+//  }
+//  20% {
+//    opacity: 1;
+//    z-index: 3;
+//    transform: translateY(0) scale(1);
+//  }
+//  24% {
+//    opacity: 0;
+//    z-index: 3;
+//    transform: translateY(-20%) scale(1.2);
+//  }
+//  25% {
+//    opacity: 0;
+//    z-index: 1;
+//    transform: translateY(20%) scale(0.8);
+//  }
+//  26% {
+//    opacity: 0.5;
+//    z-index: 1;
+//    transform: translateY(20%) scale(0.8);
+//  }
+//  55% {
+//    opacity: 0.5;
+//    z-index: 1;
+//    transform: translateY(20%) scale(0.8);
+//  }
+//  60% {
+//    opacity: 0.7;
+//    z-index: 2;
+//    transform: translateY(10%) scale(0.9);
+//  }
+//  85% {
+//    opacity: 0.7;
+//    z-index: 2;
+//    transform: translateY(10%) scale(0.9);
+//  }
+//  90% {
+//    opacity: 1;
+//    z-index: 3;
+//    transform: translateY(0) scale(1);
+//  }
+//  100% {
+//    opacity: 1;
+//    z-index: 3;
+//    transform: translateY(0) scale(1);
+//  }
+//}
+//@keyframes page2 {
+//  0% {
+//    opacity: 0.7;
+//    z-index: 2;
+//    transform: translateY(10%) scale(0.9);
+//  }
+//  20% {
+//    opacity: 0.7;
+//    z-index: 2;
+//    transform: translateY(10%) scale(0.9);
+//  }
+//  25% {
+//    opacity: 1;
+//    z-index: 3;
+//    transform: translateY(0) scale(1);
+//  }
+//  55% {
+//    opacity: 1;
+//    z-index: 3;
+//    transform: translateY(0) scale(1);
+//  }
+//  58% {
+//    opacity: 0;
+//    z-index: 3;
+//    transform: translateY(-20%) scale(1.2);
+//  }
+//  59% {
+//    opacity: 0;
+//    z-index: 1;
+//    transform: translateY(20%) scale(0.8);
+//  }
+//  60% {
+//    opacity: 0.5;
+//    z-index: 1;
+//    transform: translateY(20%) scale(0.8);
+//  }
+//  85% {
+//    opacity: 0.5;
+//    z-index: 1;
+//    transform: translateY(20%) scale(0.8);
+//  }
+//  90% {
+//    opacity: 0.7;
+//    z-index: 2;
+//    transform: translateY(10%) scale(0.9);
+//  }
+//  100% {
+//    opacity: 0.7;
+//    z-index: 2;
+//    transform: translateY(10%) scale(0.9);
+//  }
+//}
+//@keyframes page3 {
+//  0% {
+//    opacity: 0.5;
+//    z-index: 1;
+//    transform: translateY(20%) scale(0.8);
+//  }
+//  20% {
+//    opacity: 0.5;
+//    z-index: 1;
+//    transform: translateY(20%) scale(0.8);
+//  }
+//  25% {
+//    opacity: 0.7;
+//    z-index: 2;
+//    transform: translateY(10%) scale(0.9);
+//  }
+//  55% {
+//    opacity: 0.7;
+//    z-index: 2;
+//    transform: translateY(10%) scale(0.9);
+//  }
+//  60% {
+//    opacity: 1;
+//    z-index: 3;
+//    transform: translateY(0) scale(1);
+//  }
+//  85% {
+//    opacity: 1;
+//    z-index: 3;
+//    transform: translateY(0) scale(1);
+//  }
+//  88% {
+//    opacity: 0;
+//    z-index: 3;
+//    transform: translateY(-20%) scale(1.2);
+//  }
+//  89% {
+//    opacity: 0;
+//    z-index: 1;
+//    transform: translateY(20%) scale(0.8);
+//  }
+//  90% {
+//    opacity: 0.5;
+//    z-index: 1;
+//    transform: translateY(20%) scale(0.8);
+//  }
+//  100% {
+//    opacity: 0.5;
+//    z-index: 1;
+//    transform: translateY(20%) scale(0.8);
+//  }
+//}
+
+body {
+  main {
+    .section1 {
+      background-color: #526dfd;
+
+      .container {
+        .row {
+          .col-lg-7 {
+            .txt1 {
+              font-size: 300%;
+            }
+
+            .txt2 {
+              font-size: 130%;
+            }
+
+            input {
+              outline: none;
+            }
+
+          }
+
+          .col-lg-5 {
+            .fon-warning-ball {
+              position: relative;
+              width: 165%;
+              height: 145%;
+              background-color: #ffd500;
+              border-radius: 50%;
+              top: -40%;
+            }
+
+            .fon-warning-ball-2 {
+              width: 600px;
+              height: 600px;
+              background-color: #ffd500;
+              border-radius: 50%;
+            }
+
+            .card-1 {
+              top: 35%;
+              animation: card-1 10s infinite;
+            }
+
+            .card-2 {
+              top: 35%;
+              left: 80%;
+              animation: card-2 10s infinite;
+            }
+
+            .card-3 {
+              top: 70%;
+              left: 10%;
+              animation: card-3 10s infinite;
+            }
+
+            .card-4 {
+              top: 70%;
+              left: 90%;
+              animation: card-4 10s infinite;
+            }
+
+            .none-div {
+              display: none;
+            }
+
+            .card-5 {
+              animation: card-5 10s infinite;
+            }
+
+            .card-6 {
+              left: 85%;
+              animation: card-6 10s infinite;
+            }
+
+            .card-7 {
+              top: 50%;
+              left: 10%;
+              animation: card-7 10s infinite;
+            }
+
+            .card-8 {
+              top: 50%;
+              left: 95%;
+              animation: card-8 10s infinite;
+            }
+          }
+        }
+      }
+    }
+
+    .section2 {
+      .card-curs {
+        transition: 0.5s ease;
+
+        &:hover {
+          box-shadow: 0px 20px 50px #dcddff;
+        }
+
+        &:hover .txt3 {
+          color: #526dfd;
+        }
+
+        &:hover .badge-pill {
+          background-color: #526dfd;
+        }
+
+        &:hover .fa-arrow-right {
+          color: white !important;
+        }
+      }
+    }
+
+    .section3 {
+      background-color: #f1f2f6;
+
+      .card-category {
+        transition: 0.5s;
+
+        &:hover {
+          box-shadow: 0px 20px 50px #dcddff;
+        }
+      }
+
+      .border-item {
+        border-bottom: 3px solid #f1f2f6;
+        transition: 0.5s;
+
+        &:focus {
+          border-bottom: 3px solid #526dfd !important;
+          color: black !important;
+        }
+      }
+    }
+
+    .section4 {
+      .card-curs {
+        transition: 0.5s ease;
+
+        &:hover {
+          box-shadow: 0px 20px 50px #dcddff;
+        }
+
+        &:hover .txt3 {
+          color: #526dfd;
+        }
+
+        &:hover .badge-pill {
+          background-color: #526dfd;
+        }
+
+        &:hover .fa-arrow-right {
+          color: white !important;
+        }
+      }
+    }
+
+    .section5 {
+      .txt6 {
+        font-size: 250%;
+      }
+    }
+
+    .section6 {
+      background-color: #f1f2f6;
+
+      .human-icon {
+        top: -20%;
+        left: 38%;
+      }
+
+      //.slide-page-1 {
+      //  //opacity: 1;
+      //  //z-index: 3;
+      //  //transform: translateY(0) scale(1);
+      //  animation: page1 10s infinite;
+      //}
+      //
+      .slide-page-4 {
+        opacity: 0.7;
+        z-index: 2;
+        transform: translateY(10%) scale(0.9);
+        //animation: page2 10s infinite;
+      }
+
+      .slide-page-5 {
+        opacity: 0.5;
+        z-index: 1;
+        transform: translateY(20%) scale(0.8);
+        //animation: page3 10s infinite;
+      }
+      .bg-transparent {
+        outline: none;
+      }
+    }
+  }
+}
